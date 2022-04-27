@@ -39,6 +39,6 @@ Material:
     - _Specular: 0
     m_Colors:
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SnowAngle: {r: 0, g: 1, b: 0, a: 1}
+    - _SnowAngle: {r: -0.12, g: 1, b: 0, a: 1}
     - _SnowBaseColorTint: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
     - _SnowTopColor: {r: 1, g: 1, b: 1, a: 1}
